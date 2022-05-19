@@ -8,15 +8,15 @@
 ### 📱 Preview
 Expending cards
 <p align="center">
-  <a href="https://valdineijunior.github.io/ExpandingCards/">
+  <a href="https://valdineijunior.github.io/SplitLandingPage/">
     <img alt="07Project" src="https://github.com/ValdineiJunior/SplitLandingPage/blob/main/assets/Screenshot.png" alt="screenshot" width="100%">
   </a>
 </p>
 
 ### 💻 Live Preview
 
-- https://valdineijunior.github.io/ExpendingCards/
-- 
+- https://valdineijunior.github.io/SplitLandingPage/
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
